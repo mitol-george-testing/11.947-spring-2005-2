@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Society",
+      "African American Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0b3bdef0-6a54-97ee-8b14-68c518aa8acb",
+      "a565be10-2046-61b6-7891-379febf8014d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Race, Immigration, and Planning",
+  "course_description": "This course provides an introduction to the issues of immigrants, planning, and race. It identifies the complexities and identities of immigrant populations emerging in the United States context and how different community groups negotiate that complexity. It explores the critical differences and commonalities between immigrant and non-immigrant communities, as well as how the planning profession does and should respond to those differences. Finally, the course explores the intersection of immigrant communities' formation and their interactions with African Americans and the idea of race in the United States.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.947",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
